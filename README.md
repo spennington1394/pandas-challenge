@@ -1,5 +1,3 @@
-# pandas-challenge
-
 PyCitySchools
 
 Scripts that analyzes schools in order to gain insight to make strategic decisions about future budgets and priorities.
