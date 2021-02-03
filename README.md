@@ -1,33 +1,30 @@
-PyCitySchools
+School District analysis using python pandas library to inform school district board in order to help funding decisions. 
 
-Scripts that analyzes schools in order to gain insight to make strategic decisions about future budgets and priorities.
-I provided stakeholders with the following summary dashboards.
+Datasets: school dataset containing information for district and charter schools.  The school dataset also contains school size and budget. 
 
--Created a District summary dashboard that creates a high level snapshot of the districts key metric:
+The second dataset is a student dataset containing: gender, grade, school name, reading and math score, type of school, size, and budget.  
 
-  -Total Schools,
-  -Total Students,
-  -Total Budget,
-  -Average Math score,
-  -Average Reading score,
-  -Percentage Passing Math,
-  -Percentage Passing Reading,
-  -Overall passing percentage
+Step 1: 
 
--Created a School summary dashboard that creates an in-depth look at key metric:
+Set dependencies (Pandas) and read in the two csv files.
 
-  -School name,
-  -School type,
-  -Total Students,
-  -Per Student Budget,
-  -Total School Budget,
-  -Average Math Score,
-  -Average Reading score,
-  -Percentage passing Math,
-  -Percentage passing Reading,
-  -Percentage overall passing
+Step 2: 
 
--Created a dashboard showing bottom performing schools by percentage overall passing. 
+Analyze school district data and create summary information for the 7 schools within the district.  The summary table contained total students, total budget, avg. math score, avg. reading score, passing math and reading, and percent overall passing.  
+
+To do so utilized conditionals, value counts, and mean. 
+
+Step 3: 
+
+Created a school level summary of all schools, district and charter, showing; type of school, total students, total school budget, per student budget, avg. math and reading scores, percent passing math, percent passing reading, and overall passing. 
+
+Step 4: 
+
+Created a summary table for top 5 and bottom five schools containing; showing; type of school, total students, total school budget, per student budget, avg. math and reading scores, percent passing math, percent passing reading, and overall passing. 
+
+Step 5:
+
+
 
 -Created a dashboard that lists the average math score for sutdents in: 9th, 10th, 11th, 12th grades at each school.
 
