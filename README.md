@@ -24,11 +24,9 @@ Created a summary table for top 5 and bottom five schools containing; showing; t
 
 Step 5:
 
+Created a dashboard that lists the average math score for sutdents in: 9th, 10th, 11th, 12th grades at each school.
 
-
--Created a dashboard that lists the average math score for sutdents in: 9th, 10th, 11th, 12th grades at each school.
-
--Created a dashboard that lists the average reading score for students in: 9th, 10th, 11th, 12th grades at each school.
+Created a dashboard that lists the average reading score for students in: 9th, 10th, 11th, 12th grades at each school.
 
 -Created a dashboard that scores school spending in connection to the following categories:
 
